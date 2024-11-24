@@ -1,0 +1,11 @@
+# Dossiers à ignorer
+node_modules/
+
+# Fichiers de configuration sensibles
+.env
+
+# Fichiers de log
+*.log
+
+# Système d'exploitation
+Thumbs.db  # (Windows)
